@@ -7,31 +7,29 @@
 </p>
 </br>
 
-<p align="center">I am a trainee about to become a software developer
-I am Interested in <b>Operratring Systems</b>, <b>Unix Systems</b>, <b>Low Level Programming</b>, <b>Maschine Lerning</b> and <b>Neural Networks</b>
+<p align="center">I am a trainee about to become a Software Developer.
+I am Interested in <b>Operratring Systems</b>, <b>Unix Systems</b>, <b>Low Level Programming</b>, <b>Maschine Lerning</b> and <b>Neural Networks</b>.
 </p>
+</br>
 
-
-<h3 align="center"> My Tech Stack</h3>
+<h2 align="center"> My Tech Stack</h2>
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bash,linux,html,css,github,vim,neovim,vscode,visualstudio" />
   </a>
 </p>
+</br>
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
+<h2 align="center">My Github Stats</h2>
+</br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=BwM17&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BwM17&hide=&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=BwM17&show_icons=true&line_height=27&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BwM17&hide=&theme=tokyonight">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BwM17&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BwM17&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
 
