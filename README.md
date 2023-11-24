@@ -16,7 +16,7 @@ I am Interested in <b>Operratring Systems</b>, <b>Unix Systems</b>, <b>Low Level
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nasm,c,cpp,cs,py,bash,bsd,linux,git,github,vim,neovim,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bash,linux,git,github,vim,neovim,vscode,visualstudio" />
   </a>
 </p>
 </br>
