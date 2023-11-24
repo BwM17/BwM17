@@ -1,7 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<br>
-<h2 align="center" >Hello There 👋 My Name is Bernhard </h2>
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
+
+<h1 align="center" >Hello There <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> My Name is Bernhard </h1>
 <p align="center">
   <img src="https://badges.pufler.dev/years/BwM17">
   <img src="https://badges.pufler.dev/repos/BwM17">
