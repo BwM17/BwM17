@@ -1,11 +1,14 @@
+![image](https://github.com/BwM17/BwM17/assets/89018551/2f71629e-0795-4b45-b45c-50a7afffa963)
 
 
-# Hi there 👋 I'am Bernhard 
 
-<table>
-  <tr>
-     🎓 I am a trainee, to become a <b>Software Developer</b></br>
-      💪 I am Currently learning <b>Rust</b> and also <b>Go</b></br>
-      🎯 My Goal is to Learn as much as Possible about <b>Computer Sience<b>
-  </tr>
-</table>
+I'm a trainee about to become a Software developer. I have verious intrest in **Linux** and **Operating Systems**, 
+
+
+<h3 align="center"> My Tech Stack <img src=""></h3>
+</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bash,linux,html,css,github,vim,neovim,vscode,visualstudio" />
+  </a>
+</p>
