@@ -1,4 +1,7 @@
-![image](https://github.com/BwM17/BwM17/assets/89018551/2f71629e-0795-4b45-b45c-50a7afffa963)
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br>
+<h2 align="center" >Hello There 👋 My Name is Bernhard </h2>
 <p align="center">
   <img src="https://badges.pufler.dev/years/BwM17">
   <img src="https://badges.pufler.dev/repos/BwM17">
