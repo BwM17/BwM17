@@ -1,11 +1,5 @@
 <p align="center">
 <img  src="src/Bernhard-github-header-image.png"> 
-</p>
-  <img src="https://badges.pufler.dev/years/BwM17">
-  <img src="https://badges.pufler.dev/repos/BwM17">
-  <img src="https://badges.pufler.dev/visits/BwM17/BwM17">
-</p>
-</br>
 
 <p align="center">I am a trainee about to become a Software Developer.
 I am Interested in <b>Operratring Systems</b>, <b>Unix Systems</b> and <b>Low Level Programming</b>.
