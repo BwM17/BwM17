@@ -3,7 +3,7 @@
 </p>
   <img src="https://badges.pufler.dev/years/BwM17">
   <img src="https://badges.pufler.dev/repos/BwM17">
-  <img src="https://badges.pufler.dev/visits/BwM17/BwM17"
+  <img src="https://badges.pufler.dev/visits/BwM17/BwM17">
 </p>
 </br>
 
