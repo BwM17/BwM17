@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="/src/Bernhard-github-header-image.png"> 
+<img  src="src/Bernhard-github-header-image.png"> 
 </p>
   <img src="https://badges.pufler.dev/years/BwM17">
   <img src="https://badges.pufler.dev/repos/BwM17">
