@@ -1,16 +1,16 @@
 <p align="center">
 <img  src="src/Bernhard-github-header-image.png"> 
-
-<p align="center">I am a trainee about to become a Software Developer.
-I am Interested in <b>Operratring Systems</b>, <b>Unix Systems</b> and <b>Low Level Programming</b>.
+<p>
+  Hello I like Programming
 </p>
+
 </br>
 
 <h2 align="center"> My Tech Stack</h2>
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,neovim" />
+    <img src="https://skillicons.dev/icons?i=go,c,bash,vue,nix,docker,linux,git,github,neovim" />
   </a>
 </p>
 </br>
