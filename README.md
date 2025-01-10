@@ -1,8 +1,8 @@
 <p align="center">
 <img  src="src/Bernhard-github-header-image.png"> 
-<p>
-  Hello I like Programming
-</p>
+<h4 align="center">
+  Hello there, I like Programming
+</h4>
 
 </br>
 
